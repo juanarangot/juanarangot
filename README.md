@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi Humnans 👋👽
 
+I'm Juan, a software developer and an idea creator from Colombia 
+
+* I have a website where I post things about programming and business
+
+* Founder of ... ... ...
 <!--
 **juanarangot/juanarangot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+
+## Skills
+
+* 💻 Deep coding knowledge ( dart, java, kotlin, php, python, r ... )
+
+* 🛠️ Full stack developer
+
+* 🌩️ Cloud architect ( AWS, AZURE, GCP )
+
+* 🛢️ DB designer
+
+* 📲 Mobile developer ( Android, iOS )
+
+* 🚢 Containers for production
+
+
+<br>
+
+## Contact
+
+<!-- * [My Website](https://juanarangot.com) -->
+
+<!-- * [Arapoints Jobs](https://jobs.arapoints.com) -->
+
+* [Twitter](https://twitter.com/juanarangot)
+
+<!-- * LinkedIn(website) -->
