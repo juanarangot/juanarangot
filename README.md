@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
 
 ## Skills
 
@@ -37,7 +36,6 @@ Here are some ideas to get you started:
 * 🚢 Containers for production
 
 
-<br>
 
 ## Contact
 
