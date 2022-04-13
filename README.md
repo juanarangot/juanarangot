@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Skills
 
-* 💻 Deep coding knowledge ( dart, java, kotlin, php, python, r ... )
+* 💻 Deep coding knowledge ( dart, java, kotlin, php, python, ruby ... )
 
 * 🛠️ Full stack developer
 
