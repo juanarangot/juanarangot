@@ -44,5 +44,6 @@ Here are some ideas to get you started:
 <!-- * [Arapoints Jobs](https://jobs.arapoints.com) -->
 
 * [Twitter](https://twitter.com/juanarangot)
+* [LinkedIn](https://www.linkedin.com/in/juan-arango-60a185218/)
 
 <!-- * LinkedIn(website) -->
