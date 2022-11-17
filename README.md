@@ -2,9 +2,9 @@
 
 I'm Juan, a software developer and an idea creator from Colombia 
 
-* I have a website where I post things about programming and business
+<!-- * I have a website where I post things about programming and business -->
 
-* Founder of ... ... ...
+<!-- * Founder of ... ... ... -->
 <!--
 **juanarangot/juanarangot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <!-- * [Arapoints Jobs](https://jobs.arapoints.com) -->
 
-* [Twitter](https://twitter.com/juanarangot)
+<!-- * [Twitter](https://twitter.com/juanarangot) -->
 * [LinkedIn](https://www.linkedin.com/in/juan-arango-60a185218/)
 
 <!-- * LinkedIn(website) -->
