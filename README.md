@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Skills
 
-* 💻 Deep coding knowledge ( dart, java, kotlin, php, python, ruby ... )
+* 💻 Deep coding knowledge ( c/c++, dart, java, kotlin, php, python, ruby ... )
 
 * 🛠️ Full stack developer
 
@@ -45,5 +45,8 @@ Here are some ideas to get you started:
 
 <!-- * [Twitter](https://twitter.com/juanarangot) -->
 * [LinkedIn](https://www.linkedin.com/in/juan-arango-60a185218/)
+
+* [Mail](mailto:juanm.arangot@gmail.com)
+
 
 <!-- * LinkedIn(website) -->
