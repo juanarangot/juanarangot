@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 <br><br>
 
 ## Languages and tools
-
 <p align=left>
   <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" title="Python" height ="42px" src="https://user-images.githubusercontent.com/65743365/224202688-8ded8505-88d4-4d79-ba51-d48407ca4a88.svg"></a>
 
@@ -74,6 +73,7 @@ Here are some ideas to get you started:
 </p>
 
 <br><br>
+
 
 <h2 align=center>My Stats</h2>
 
