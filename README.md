@@ -1,4 +1,4 @@
-# Hi Humans 👋👽 | ![](https://komarev.com/ghpvc/?username=juanarangot&color=blue) | [![Twitter: juanarangot](https://img.shields.io/twitter/follow/juanarangot?style=social)](https://twitter.com/juanarangot) | [![Linkedin: Juanarangot](https://img.shields.io/badge/-juanarangot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanarangot/)](https://www.linkedin.com/in/juanarangot/) |
+# Hi Humans 👋👽 | <img src="https://komarev.com/ghpvc/?username=juanarangot&style=for-the-badge"> | <a href="https://twitter.com/juanarangot"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>   | <a href="https://www.linkedin.com/in/juanarangot"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> | <a href="https://www.instagram.com/juanarangot/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> |
 
 I'm Juan, a Full stack 🛠️ developer developer and an idea creator.
 
