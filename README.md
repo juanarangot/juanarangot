@@ -1,4 +1,4 @@
-# Hi Humans 👋👽 | ![](https://komarev.com/ghpvc/?username=juanarangot&color=blue) [![Twitter: juanarangot](https://img.shields.io/twitter/follow/juanarangot?style=social)](https://twitter.com/juanarangot) | [![Linkedin: Juanarangot](https://img.shields.io/badge/-juanarangot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanarangot/)](https://www.linkedin.com/in/juanarangot/) |
+# Hi Humans 👋👽 | ![](https://komarev.com/ghpvc/?username=juanarangot&color=blue) | [![Twitter: juanarangot](https://img.shields.io/twitter/follow/juanarangot?style=social)](https://twitter.com/juanarangot) | [![Linkedin: Juanarangot](https://img.shields.io/badge/-juanarangot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanarangot/)](https://www.linkedin.com/in/juanarangot/) |
 
 
 I'm Juan, a Full stack 🛠️ developer developer and an idea creator.
@@ -72,11 +72,21 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203057-e81014fb-8137-49a1-90c4-298180c2b239.png" align="left" alt="mongoDB logo" title="mongoDB" height='42px'/> </a>
 </div>
 
-
 ## .
+
+<br>
+
 ## My Stats
 
-* content
+<br>
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+  <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=juanarangot&theme=dark&border=61dafb&hide_border=true" alt="Juanarangot" />
+
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=juanarangot&theme=one-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+
 
 ## Contact
 
