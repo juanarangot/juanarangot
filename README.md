@@ -1,5 +1,4 @@
-# Hi Humanans 👋👽 | ![](https://komarev.com/ghpvc/?username=juanarangot&color=blue) [![Twitter: juanarangot](https://img.shields.io/twitter/follow/juanarangot?style=social)](https://twitter.com/juanarangot) |
-[![Linkedin: Juanarangot](https://img.shields.io/badge/-juanarangot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanarangot/)](https://www.linkedin.com/in/juanarangot/)
+# Hi Humanans 👋👽 | ![](https://komarev.com/ghpvc/?username=juanarangot&color=blue) [![Twitter: juanarangot](https://img.shields.io/twitter/follow/juanarangot?style=social)](https://twitter.com/juanarangot) | [![Linkedin: Juanarangot](https://img.shields.io/badge/-juanarangot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanarangot/)](https://www.linkedin.com/in/juanarangot/)
 
 
 
