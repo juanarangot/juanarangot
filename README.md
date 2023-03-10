@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://user-images.githubusercontent.com/65743365/224203045-49498394-2b2a-4d86-9ffa-b71678248df7.png"> </a>
 
-
   <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://user-images.githubusercontent.com/65743365/224203048-890296c6-85c2-4503-a6f2-1faa513208e2.png"></a>
 
   <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://user-images.githubusercontent.com/65743365/224203392-2258e031-ed57-4990-8000-5bd0e9855332.png"></a>
@@ -73,7 +72,6 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203057-e81014fb-8137-49a1-90c4-298180c2b239.png" align="left" alt="mongoDB logo" title="mongoDB" height='42px'/> </a>
 </div>
 
----
 
 ## .
 ## My Stats
