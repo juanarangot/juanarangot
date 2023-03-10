@@ -1,6 +1,6 @@
 ### Hi Humnans 👋👽
-
-I'm Juan, a software developer and an idea creator from Colombia 
+<!-- Agregar un giff -->
+I'm Juan, a software developer and an idea creator from Colombia
 
 <!-- * I have a website where I post things about programming and business -->
 
