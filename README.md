@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203396-8d681131-fd26-43c9-b25f-e91d51a10f00.png" align="left" alt="git" height='42px'/> </a>
 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203399-9b0b0b1f-1b3f-4b9f-9b1a-9b8b0b2b2b2b.png" align="left" alt="docker" height='42px'/> </a>
 
 <a href="https://rubyonrails.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203034-80c7c470-b049-4e61-917f-40ec0faec999.png" align="left" alt="Ruby on rails" title="ruby on rails" height='42px'/> </a>
 
@@ -80,6 +79,8 @@ Here are some ideas to get you started:
 <br>
 
 ## My Stats
+
+content
 
 ## Contact
 
