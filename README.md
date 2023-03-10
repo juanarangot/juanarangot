@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<h2>My Stats</h2>
+<h2 align=center>My Stats</h2>
 
 <p align=center>
   <div align=center>
