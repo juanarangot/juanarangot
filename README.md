@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ## Languages and tools
 
-<div>
+<div align=center>
   <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" title="Python" height ="42px" src="https://user-images.githubusercontent.com/65743365/224202688-8ded8505-88d4-4d79-ba51-d48407ca4a88.svg"></a>
 
   <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://user-images.githubusercontent.com/65743365/224203002-696ae761-02e7-45b5-98db-a131d2a7c7e2.png"></a>
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-## My Stats
+## My Stats ##
 
 <p align=center>
   <div align=center>
