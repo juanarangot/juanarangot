@@ -56,20 +56,15 @@ Here are some ideas to get you started:
 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203396-8d681131-fd26-43c9-b25f-e91d51a10f00.png" align="left" alt="git" height='42px'/> </a>
 
-
   <a href="https://rubyonrails.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203034-80c7c470-b049-4e61-917f-40ec0faec999.png" align="left" alt="Ruby on rails" title="ruby on rails" height='42px'/> </a>
 
   <a href="https://www.ruby-lang.org/es/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203036-4e8d760b-0780-4d3c-900e-09568745ef5d.svg" align="left" alt="Ruby" title="ruby" height='42px'/> </a>
 
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203037-1ed1badc-c62f-486b-b49c-e275ca22f338.png" align="left" alt="Amazon web services logo" title="AWS" height='42px'/> </a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203040-95d984f3-c355-4975-8477-261ab0f22223.svg" align="left" alt="Amazon web services logo" title="AWS" height='42px'/> </a>
 
   <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203041-6b60b48a-eced-4cd9-80d5-be108954cdb8.png" align="left" alt="azure logo" title="azure" height='42px'/> </a>
 
   <a href="https://cloud.google.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203044-e7cc05bc-542a-4c18-99a7-e315471bd4ea.png" align="left" alt="gcp logo" title="gcp" height='42px'/> </a>
-
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203050-52f3d120-9430-4d05-9cf1-83ab8c224b9e.svg" align="left" alt="c logo" title="C" height='42px'/> </a>
-
-  <a href="https://isocpp.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203051-5981a631-d35a-41ba-be91-2238e6584f15.png" align="left" alt="c++ logo" title="c++" height='42px'/> </a>
 
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203054-716ff62b-6607-484a-b444-41296e91dae5.png" align="left" alt="postgres logo" title="postgreSQL" height='42px'/> </a>
 
@@ -82,7 +77,7 @@ Here are some ideas to get you started:
 
 ## My Stats
 
-content
+* content
 
 ## Contact
 
