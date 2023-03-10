@@ -1,5 +1,7 @@
 ### Hi Humnans 👋👽
 <!-- Agregar un giff -->
+![name](https://user-images.githubusercontent.com/65743365/224197052-6ced69a6-fa1b-431b-87f5-2b0cf3112f73.gif)
+
 I'm Juan, a software developer and an idea creator from Colombia
 
 <!-- * I have a website where I post things about programming and business -->
