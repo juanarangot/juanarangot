@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- ## My Stats -->
+## .
 ## My Stats
 
 * content
