@@ -80,9 +80,12 @@ Here are some ideas to get you started:
 
 <br>
 
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+<div align=center>
+ <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
   <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=juanarangot&theme=dark&border=61dafb&hide_border=true" alt="Juanarangot" />
+</div>
 
+<br>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=juanarangot&theme=one-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
