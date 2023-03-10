@@ -42,8 +42,7 @@ Here are some ideas to get you started:
 <br><br>
 
 ## Languages and tools
-
-<div align=center>
+<p align=left>
   <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" title="Python" height ="42px" src="https://user-images.githubusercontent.com/65743365/224202688-8ded8505-88d4-4d79-ba51-d48407ca4a88.svg"></a>
 
   <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://user-images.githubusercontent.com/65743365/224203002-696ae761-02e7-45b5-98db-a131d2a7c7e2.png"></a>
@@ -71,11 +70,12 @@ Here are some ideas to get you started:
   <a href="https://spring.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203059-c9d04a0e-0f7d-4869-85ac-4acd7c1a0310.png" align="left" alt="spring logo" title="spring" height='42px'/> </a>
 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203057-e81014fb-8137-49a1-90c4-298180c2b239.png" align="left" alt="mongoDB logo" title="mongoDB" height='42px'/> </a>
-</div>
+</p>
 
-<br><br>
+<br><br><br><br><br>
 
-<h2 align=center>My Stats</h2>
+
+<h2>My Stats</h2>
 
 <p align=center>
   <div align=center>
