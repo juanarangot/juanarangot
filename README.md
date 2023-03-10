@@ -84,13 +84,13 @@ Here are some ideas to get you started:
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=juanarangot&theme=react&border=61dafb&hide_border=true" alt="Juanarangot" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
-
+  <br><br><br>
 </p>
 
-<br><br>
+<br>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=juanarangot&theme=one-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 
 
 
