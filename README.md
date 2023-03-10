@@ -1,11 +1,11 @@
-# Hi Humanans 👋👽 | ![](https://komarev.com/ghpvc/?username=juanarangot&color=blue) [![Twitter: juanarangot](https://img.shields.io/twitter/follow/juanarangot?style=social)](https://twitter.com/juanarangot) | [![Linkedin: Juanarangot](https://img.shields.io/badge/-juanarangot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanarangot/)](https://www.linkedin.com/in/juanarangot/)
+# Hi Humans 👋👽 | ![](https://komarev.com/ghpvc/?username=juanarangot&color=blue) [![Twitter: juanarangot](https://img.shields.io/twitter/follow/juanarangot?style=social)](https://twitter.com/juanarangot) | [![Linkedin: Juanarangot](https://img.shields.io/badge/-juanarangot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanarangot/)](https://www.linkedin.com/in/juanarangot/) |
 
 
+I'm Juan, a Full stack 🛠️ developer developer and an idea creator.
 
 <!-- Agregar un giff -->
 <img src="https://user-images.githubusercontent.com/65743365/224197052-6ced69a6-fa1b-431b-87f5-2b0cf3112f73.gif"/>
 
-I'm Juan, a Full stack 🛠️ developer developer and an idea creator.
 
 
 <!-- * I have a website where I post things about programming and business -->
@@ -83,7 +83,8 @@ Here are some ideas to get you started:
 <!-- * [My Website](https://example.com) -->
 
 <!-- * [Twitter](https://twitter.com/juanarangot) -->
-* [LinkedIn](https://www.linkedin.com/in/juan-arango-60a185218/)
+<!-- * [LinkedIn](https://www.linkedin.com/in/juan-arango-60a185218/) -->
+* [![Linkedin: Juanarangot](https://img.shields.io/badge/-juanarangot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanarangot/)](https://www.linkedin.com/in/juanarangot/)
 
 * [Mail](mailto:juanm.arangot@gmail.com)
 
