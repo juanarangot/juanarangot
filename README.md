@@ -1,12 +1,9 @@
-# Hi Humanans 👋👽 | ![](https://komarev.com/ghpvc/?username=juanarangot&color=blue) [![Twitter: juanarangot](https://img.shields.io/twitter/follow/juanarangot?style=social)](https://twitter.com/juanarangot) | [![Linkedin: Juanarangot](https://img.shields.io/badge/-juanarangot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanarangot/)](https://www.linkedin.com/in/juanarangot/)
-
-
-
-<!-- Agregar un giff -->
-<img src="https://user-images.githubusercontent.com/65743365/224197052-6ced69a6-fa1b-431b-87f5-2b0cf3112f73.gif"/>
+# Hi Humans 👋👽 | ![](https://komarev.com/ghpvc/?username=juanarangot&color=blue) | [![Twitter: juanarangot](https://img.shields.io/twitter/follow/juanarangot?style=social)](https://twitter.com/juanarangot) | [![Linkedin: Juanarangot](https://img.shields.io/badge/-juanarangot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanarangot/)](https://www.linkedin.com/in/juanarangot/) |
 
 I'm Juan, a Full stack 🛠️ developer developer and an idea creator.
 
+<!-- Agregar un giff -->
+<img src="https://user-images.githubusercontent.com/65743365/224197052-6ced69a6-fa1b-431b-87f5-2b0cf3112f73.gif"/>
 
 <!-- * I have a website where I post things about programming and business -->
 
@@ -26,6 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br><br>
+
 ## Skills
 
 * 💻 Coding knowledge
@@ -40,9 +39,11 @@ Here are some ideas to get you started:
 
 * 🚢 Containers for production
 
+<br><br>
+
 ## Languages and tools
 
-<div>
+<div align=center>
   <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" title="Python" height ="42px" src="https://user-images.githubusercontent.com/65743365/224202688-8ded8505-88d4-4d79-ba51-d48407ca4a88.svg"></a>
 
   <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://user-images.githubusercontent.com/65743365/224203002-696ae761-02e7-45b5-98db-a131d2a7c7e2.png"></a>
@@ -72,18 +73,30 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203057-e81014fb-8137-49a1-90c4-298180c2b239.png" align="left" alt="mongoDB logo" title="mongoDB" height='42px'/> </a>
 </div>
 
+<br><br>
 
-## .
-## My Stats
+<h2 align=center>My Stats</h2>
 
-* content
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/juanarangot/" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=juanarangot&theme=react&border=61dafb&hide_border=true" alt="Juanarangot" />
+    </a>
+  </div>
+  <br><br><br><br><br>
+</p>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=juanarangot&theme=one-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ## Contact
 
 <!-- * [My Website](https://example.com) -->
 
 <!-- * [Twitter](https://twitter.com/juanarangot) -->
-* [LinkedIn](https://www.linkedin.com/in/juan-arango-60a185218/)
+<!-- * [LinkedIn](https://www.linkedin.com/in/juan-arango-60a185218/) -->
+* [![Linkedin: Juanarangot](https://img.shields.io/badge/-juanarangot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanarangot/)](https://www.linkedin.com/in/juanarangot/)
 
 * [Mail](mailto:juanm.arangot@gmail.com)
 
