@@ -1,12 +1,9 @@
 # Hi Humans 👋👽 | ![](https://komarev.com/ghpvc/?username=juanarangot&color=blue) | [![Twitter: juanarangot](https://img.shields.io/twitter/follow/juanarangot?style=social)](https://twitter.com/juanarangot) | [![Linkedin: Juanarangot](https://img.shields.io/badge/-juanarangot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanarangot/)](https://www.linkedin.com/in/juanarangot/) |
 
-
 I'm Juan, a Full stack 🛠️ developer developer and an idea creator.
 
 <!-- Agregar un giff -->
 <img src="https://user-images.githubusercontent.com/65743365/224197052-6ced69a6-fa1b-431b-87f5-2b0cf3112f73.gif"/>
-
-
 
 <!-- * I have a website where I post things about programming and business -->
 
@@ -42,7 +39,6 @@ Here are some ideas to get you started:
 
 * 🚢 Containers for production
 
-
 <br><br>
 
 ## Languages and tools
@@ -77,11 +73,9 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203057-e81014fb-8137-49a1-90c4-298180c2b239.png" align="left" alt="mongoDB logo" title="mongoDB" height='42px'/> </a>
 </div>
 
-
-
 <br><br>
 
-## My Stats ##
+<h2>My Stats</h2>
 
 <p align=center>
   <div align=center>
@@ -95,9 +89,6 @@ Here are some ideas to get you started:
 <br><br>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=juanarangot&theme=one-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-
-
 
 ## Contact
 
