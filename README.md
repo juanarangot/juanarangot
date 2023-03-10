@@ -1,9 +1,3 @@
-<style>
-    .img-rounded {
-        border-radius: 5%;
-    }
-</style>
-
 # Hi Humanans 👋👽 | ![](https://komarev.com/ghpvc/?username=juanarangot&color=blue)
 
 
@@ -13,7 +7,7 @@
  -->
 <!-- add an image with rounded corners -->
 
-<img src="https://user-images.githubusercontent.com/65743365/224197052-6ced69a6-fa1b-431b-87f5-2b0cf3112f73.gif" width="80%" height="100" class="img-rounded" />
+<img src="https://user-images.githubusercontent.com/65743365/224197052-6ced69a6-fa1b-431b-87f5-2b0cf3112f73.gif" class="img-rounded" />
 
 I'm Juan, a Full stack 🛠️ developer developer and an idea creator.
 
