@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203057-e81014fb-8137-49a1-90c4-298180c2b239.png" align="left" alt="mongoDB logo" title="mongoDB" height='42px'/> </a>
 </div>
 
-<br>
+---
 
 ## My Stats
 
