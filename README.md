@@ -88,7 +88,9 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=juanarangot&theme=one-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<a href="#" title="Contribution Graph">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=juanarangot&theme=one-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<a/>
 
 ## Contact
 
