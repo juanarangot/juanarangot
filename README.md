@@ -3,7 +3,7 @@
 I'm Juan, a Full stack 🛠️ developer developer and an idea creator.
 
 <!-- Agregar un giff -->
-<img src="https://user-images.githubusercontent.com/65743365/224197052-6ced69a6-fa1b-431b-87f5-2b0cf3112f73.gif"/>
+<a href="#"><img src="https://user-images.githubusercontent.com/65743365/224197052-6ced69a6-fa1b-431b-87f5-2b0cf3112f73.gif"/><a/>
 
 <!-- * I have a website where I post things about programming and business -->
 
