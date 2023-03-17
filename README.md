@@ -79,10 +79,11 @@ Here are some ideas to get you started:
 
 <div align=center>
   <a href="https://github.com/juanarangot/" title="Go to Source">
-    <img align="center" width=600 height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=juanarangot&theme=react&border=61dafb&hide_border=true" alt="Juanarangot" />
+    <img align="center" width="80%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=juanarangot&theme=react&border=61dafb&hide_border=true" alt="Juanarangot" />
   </a>
 </div>
 
+<br>
 
 <a href="#" title="Contribution Graph">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=juanarangot&theme=one-dark&bg_color=20232a&hide_border=true" width="100%"/>
