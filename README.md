@@ -77,14 +77,11 @@ Here are some ideas to get you started:
 
 <h2>My Stats</h2>
 
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/juanarangot/" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=juanarangot&theme=react&border=61dafb&hide_border=true" alt="Juanarangot" />
-    </a>
-  </div>
-  <br><br><br><br><br>
-</p>
+<div align=center>
+  <a href="https://github.com/juanarangot/" title="Go to Source">
+    <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=juanarangot&theme=react&border=61dafb&hide_border=true" alt="Juanarangot" />
+  </a>
+</div>
 
 <br><br>
 
