@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 
   <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://user-images.githubusercontent.com/65743365/224203002-696ae761-02e7-45b5-98db-a131d2a7c7e2.png"></a>
 
+  <a href="https://spring.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203059-c9d04a0e-0f7d-4869-85ac-4acd7c1a0310.png" align="left" alt="spring logo" title="spring" height='42px'/></a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://user-images.githubusercontent.com/65743365/224203045-49498394-2b2a-4d86-9ffa-b71678248df7.png"> </a>
 
   <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://user-images.githubusercontent.com/65743365/224203048-890296c6-85c2-4503-a6f2-1faa513208e2.png"></a>
@@ -66,8 +68,6 @@ Here are some ideas to get you started:
   <a href="https://cloud.google.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203044-e7cc05bc-542a-4c18-99a7-e315471bd4ea.png" align="left" alt="gcp logo" title="gcp" height='42px'/> </a>
 
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203054-716ff62b-6607-484a-b444-41296e91dae5.png" align="left" alt="postgres logo" title="postgreSQL" height='42px'/> </a>
-
-  <a href="https://spring.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203059-c9d04a0e-0f7d-4869-85ac-4acd7c1a0310.png" align="left" alt="spring logo" title="spring" height='42px'/> </a>
 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/65743365/224203057-e81014fb-8137-49a1-90c4-298180c2b239.png" align="left" alt="mongoDB logo" title="mongoDB" height='42px'/> </a>
 </p>
