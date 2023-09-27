@@ -75,13 +75,13 @@ Here are some ideas to get you started:
 <br><br><br><br><br>
 
 
-<h2>My Stats</h2>
+<!-- <h2>My Stats</h2>
 
 <div align=center>
   <a href="#" title="juanarangot's stats">
     <img align="center" width="80%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=juanarangot&theme=react&border=61dafb&hide_border=true" alt="Juanarangot" />
   </a>
-</div>
+</div> -->
 
 <br>
 
