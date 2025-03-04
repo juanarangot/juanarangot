@@ -1,6 +1,6 @@
 # Hi Humans 👋👽 | <a href="#"><img src="https://komarev.com/ghpvc/?username=juanarangot&style=for-the-badge"></a> | <a href="https://twitter.com/juanarangot"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>   | <a href="https://www.linkedin.com/in/juanarangot"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> | <a href="https://www.instagram.com/juanarangot/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> |
 
-I'm Juan, a Full stack 🛠️ developer developer and an idea creator.
+I'm Juan, a Full stack 🛠️ developer and an idea creator.
 
 <!-- Agregar un giff -->
 <a href="#"><img src="https://user-images.githubusercontent.com/65743365/224197052-6ced69a6-fa1b-431b-87f5-2b0cf3112f73.gif"/><a/>
